@@ -1,0 +1,10 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
+  "less.lint.unknownAtRules": "ignore",
+
+  // helps VS Code parse Tailwind/PostCSS syntax in this file
+  "files.associations": {
+    "src/app/globals.css": "postcss"
+  }
+}
