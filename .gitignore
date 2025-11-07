@@ -47,3 +47,6 @@ next-env.d.ts
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
+
+# Ignore the Next.js test route
+/app/test/
